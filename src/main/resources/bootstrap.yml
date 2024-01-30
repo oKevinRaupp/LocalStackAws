@@ -8,3 +8,6 @@ aws:
   paramstore:
     enabled: true
     endpoint: http://localhost.localstack.cloud:4566
+  secretsmanager:
+    enabled: true
+    endpoint: http://localhost.localstack.cloud:4566
