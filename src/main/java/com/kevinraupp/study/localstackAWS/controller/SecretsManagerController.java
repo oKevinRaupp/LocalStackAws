@@ -1,4 +1,4 @@
-package com.kevinraupp.study.localstackAWS.secretsmanager.controller;
+package com.kevinraupp.study.localstackAWS.controller;
 
 import com.kevinraupp.study.localstackAWS.secretsmanager.configuration.SecretsManagerConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
